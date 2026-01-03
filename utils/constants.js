@@ -66,4 +66,14 @@ export const FEATURED_PROJECTS = [
     image:
       "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1000&q=80",
   },
+  {
+    id: 4,
+    title: "MERN Stack Messaging App with Socket.io",
+    description:
+      "Designed and developed a full-stack real-time messaging application using the MERN stack.",
+    tech: ["React.js", "Chakra UI", "Node.js", "Express.js", "MongoDB", "Socket.io", "JWT"],
+    live: "https://communication-web-gamma.vercel.app/",
+    github: "https://github.com/Abhi420hck/Communication_web",
+    image: "https://thumbs.dreamstime.com/z/chat-icon-abstract-blue-background-illustration-dark-digital-texture-grunge-elegant-paint-modern-design-concept-167073502.jpg",
+  },
 ];
